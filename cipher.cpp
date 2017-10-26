@@ -1,4 +1,4 @@
-#include<iostream> //Ceaser Cipher Implementation
+#include<iostream> //Caesar Cipher Implementation
 #include<cstring>
 using namespace std;
 int main(){
